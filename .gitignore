@@ -1,0 +1,51 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.log
+
+# --- Virtual environments ---
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# --- Jupyter / IPython ---
+.ipynb_checkpoints/
+*.ipynb
+
+# --- OS / Editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# --- Build / Packaging ---
+build/
+dist/
+*.manifest
+*.spec
+
+# --- Streamlit local ---
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# --- Reports / Outputs ---
+*.pdf
+*.csv
+*.xlsx
+*.zip
+outputs/
+reports/
+
+# --- IDE ---
+.vscode/
+.idea/
