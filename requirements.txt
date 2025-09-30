@@ -1,0 +1,13 @@
+streamlit==1.50.0
+matplotlib>=3.8
+pandas>=2.2
+numpy>=2.0
+beautifulsoup4
+lxml
+requests
+folium
+streamlit-folium
+branca
+watchdog
+reportlab
+pyarrow
